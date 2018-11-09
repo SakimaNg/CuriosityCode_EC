@@ -1,4 +1,10 @@
 // Post your CuriosityCode_EC here. 
+void setup(){
+size(400,400);
+fill(160,160,160);
+rect(75,150,150,250);
+rect(250,250,100,150);
+}
 
 void draw(){
   if(mousePressed){
